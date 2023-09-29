@@ -28,7 +28,7 @@ Make sure that you install the correct version!
 
 Go to the [Z3 releases](https://github.com/Z3Prover/z3/releases/tag/z3-4.8.17)
 page and pick the release for your OS and architecture.
-
+dfg
 #### Binary
 
 From this release, copy the `z3` binary into your path.
